@@ -165,15 +165,18 @@ This solution helps organizations by:
 
 ### Confusion Matrix
 
-_Add screenshot here_
+<img width="825" height="715" alt="Screenshot 2026-07-29 232353" src="https://github.com/user-attachments/assets/86bd0dc7-b5c5-47e2-acc7-7f5d10ea8a3b" />
+
 
 ### Model Performance
 
-_Add screenshot here_
+<img width="523" height="359" alt="Screenshot 2026-07-29 232429" src="https://github.com/user-attachments/assets/e60a5e25-37b3-4713-a180-d6c5206c79c2" />
+
 
 ### Streamlit Application
 
-_Add screenshot here_
+<img width="938" height="914" alt="Screenshot 2026-07-29 232532" src="https://github.com/user-attachments/assets/98c30b10-dd51-46cc-9c52-2ba779844ebf" />
+
 
 ---
 
@@ -182,7 +185,7 @@ _Add screenshot here_
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Support-Ticket-Classification-and-Prioritization.git
+git clone https://github.com/abel-joh-n/FUTURE_ML_02.git
 ```
 
 ### 2. Install dependencies
